@@ -1,1 +1,3 @@
 # Sustainable-Camera-Based-Support-for-the-Visually-Impaired
+
+This project aims to enhance the daily lives of visually impaired individuals by providing them with a wearable assistive technology solution. The prototype consists of a pair of smart glasses equipped with various sensors and features to aid navigation, object recognition, and communication.  This project is integrated with various domains including Computer Vision (CV), Internet of Things (IOT), Machine Learning, App Development. This device recognises objects, obstacles, traffic and helps the person using the device to make further decisions.
